@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react"
 import axios from "axios"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://rag-chatbot-production-97e0.up.railway.app"
 
 export default function App() {
   const [messages, setMessages] = useState([
