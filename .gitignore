@@ -1,0 +1,11 @@
+# Backend
+backend/venv/
+backend/.env
+backend/faiss_index/
+
+# Frontend
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
